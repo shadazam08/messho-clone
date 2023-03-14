@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/messho-clone/static/css/main.649a5f71.css",
+    "main.js": "/messho-clone/static/js/main.b8958609.js",
+    "static/js/787.ac05c8a0.chunk.js": "/messho-clone/static/js/787.ac05c8a0.chunk.js",
+    "static/media/CartLogoIcon.svg": "/messho-clone/static/media/CartLogoIcon.896f7fe8d2065f33b1665d029f0c9aa0.svg",
+    "index.html": "/messho-clone/index.html",
+    "static/media/CashIcon.svg": "/messho-clone/static/media/CashIcon.8b2666afa4f2d2fb4eb8840fc45474cd.svg",
+    "static/media/LocationIcon.svg": "/messho-clone/static/media/LocationIcon.ebfbe221a204236df68d93a6a1245cad.svg",
+    "static/media/CartTruckIcon.svg": "/messho-clone/static/media/CartTruckIcon.b1bfb309daa40270296be877dd510f84.svg",
+    "static/media/CallIcon.svg": "/messho-clone/static/media/CallIcon.72156106e609ef768a72b25d1340a33b.svg",
+    "static/media/CartCloseIcon.svg": "/messho-clone/static/media/CartCloseIcon.834d4e187ae014e0b6e0318f53ecf773.svg",
+    "static/media/GreenTickIcon.svg": "/messho-clone/static/media/GreenTickIcon.d565ddaa4d4ebcaa5d8c15a97eea4a9e.svg",
+    "static/media/CartPlusIcon.svg": "/messho-clone/static/media/CartPlusIcon.762ef80da9a54e3b08f0ffbd36397fd7.svg",
+    "static/media/CartMinusIcon.svg": "/messho-clone/static/media/CartMinusIcon.232046b4ede23aaca82da2f3f30804bc.svg",
+    "main.649a5f71.css.map": "/messho-clone/static/css/main.649a5f71.css.map",
+    "main.b8958609.js.map": "/messho-clone/static/js/main.b8958609.js.map",
+    "787.ac05c8a0.chunk.js.map": "/messho-clone/static/js/787.ac05c8a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.649a5f71.css",
+    "static/js/main.b8958609.js"
+  ]
+}
